@@ -1,0 +1,1 @@
+In this project, I use Python with Gradio to classify any given image using a pretrained ResNet-18 model from PyTorch. Users can upload images, and the model will return the top 3 predicted categories with their confidence scores.
